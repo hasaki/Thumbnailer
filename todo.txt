@@ -1,0 +1,5 @@
++ Generate thumbnail by dragging file onto app icon
++ - Auto size proportionally to a certain size
++ - Autoname the resulting file based on a given pattern
+- Display a dialog for resizing precisely
+- Allow to drag/drop a new image onto the window to begin working with it
